@@ -1,1 +1,16 @@
 <!DOCTYPE html> <html lang="en"> <head> <meta charset="UTF-8" /> <meta name="description" content="A lifestyle blog for modern nomads, sharing travel tips and remote work advice." /> <title>Lifestyle Nomad</title> </head> <body> <header> <h1>Welcome to Lifestyle Nomad</h1> <p>Your journey starts here.</p> </header> <main> <section> <h2>Explore New Horizons</h2> <p>Discover how to live and work anywhere in the world.</p> </section> <section> <h2>Latest Adventures</h2> <p>Join us as we share stories from around the globe.</p> </section> </main> <footer> <p>&copy; 2026 Lifestyle Nomad. All rights reserved.</p> </footer> </body> </html>
+<section>
+  <h2>My Lifestyle Blog</h2>
+  <p>Welcome to my blog! Here’s a video I wanted to share:</p>
+  
+  <video width="600" controls>
+    <source src="videos/myvideo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</section>
+<section>
+  <h2>Travel Notes</h2>
+  <p>Here’s a snapshot from my last trip:</p>
+  
+  <img src="images/mypicture.jpg" alt="Travel photo" width="600">
+</section>
