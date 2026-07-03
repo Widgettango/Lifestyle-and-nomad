@@ -3,6 +3,7 @@
   <h2>My Lifestyle Blog</h2>
   <p>Welcome to my blog! Here’s a video I wanted to share:</p>
   
+  1
   <video width="600" controls>
     <source src="videos/myvideo.mp4" type="video/mp4">
     Your browser does not support the video tag.
@@ -14,3 +15,4 @@
   
   <img src="images/mypicture.jpg" alt="Travel photo" width="600">
 </section>
+done,z
